@@ -71,7 +71,7 @@
         android:layout_alignBottom="@+id/buttondiv"
         android:layout_toEndOf="@+id/buttondiv"
         android:layout_toRightOf="@+id/buttondiv"
-        android:text="cd"
+        android:text="&lt;&lt;"
         android:tag="CD"
         android:onClick="click"/>
 
